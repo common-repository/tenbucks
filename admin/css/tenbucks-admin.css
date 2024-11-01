@@ -1,0 +1,23 @@
+h2.clear {
+    line-height: 70px;
+}
+
+h2.clear > img {
+    margin-right: 13px;
+}
+
+#tenbucks-iframe {
+    display: block;
+    width: 100%;
+    min-height: 400px;
+}
+
+#tenbucks_register_form {
+    margin-top: 30px;
+}
+
+#tenbucks_register_form legend {
+    font-size: 1.5em;
+    font-weight: 300;
+    line-height: 2em;
+}
